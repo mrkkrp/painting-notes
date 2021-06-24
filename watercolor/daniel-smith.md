@@ -10,7 +10,7 @@ Binning Monro Style Palette <http://www.littlebrassbox.com/BM%20Page.html>
   * Pyrrol Red
   * Raw Sienna
   * Burnt Sienna
-  * Lavender
+  * Burnt Umber
   * Cerulean blue
   * Cobalt Blue
   * French Ultramarine
@@ -19,5 +19,5 @@ Binning Monro Style Palette <http://www.littlebrassbox.com/BM%20Page.html>
 * 4 supplementary half-pans:
   * Chinese white
   * Lemon Yellow
-  * Raw Umber
-  * Burnt Umber
+  * Lavender
+  * Lamp black
