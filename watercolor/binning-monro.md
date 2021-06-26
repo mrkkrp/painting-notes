@@ -1,8 +1,10 @@
-# Daniel Smith palette
+# Binning monro palette
 
-The color chart: <https://danielsmith.com/product/daniel-smith-extra-fine-watercolors/>
+<http://www.littlebrassbox.com/BM%20Page.html>
 
-Binning Monro Style Palette <http://www.littlebrassbox.com/BM%20Page.html>
+All colors from Daniel Smith, the color chart:
+<https://danielsmith.com/product/daniel-smith-extra-fine-watercolors/>
+
 * 12 full pans:
   * Aureolin (Cobalt Yellow)
   * Hansa yellow deep
