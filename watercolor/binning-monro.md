@@ -3,23 +3,23 @@
 <http://www.littlebrassbox.com/BM%20Page.html>
 
 All colors from Daniel Smith, the color chart:
-<https://danielsmith.com/product/daniel-smith-extra-fine-watercolors/>
+<https://janeblundellart.blogspot.com/2017/04/daniel-smith-watercolour-full-range.html>
 
 * 12 full pans:
-  * Aureolin (Cobalt Yellow)
+  * Hansa yellow medium
   * Hansa yellow deep
-  * Pyrrol Orange
-  * Pyrrol Red
-  * Raw Sienna
-  * Burnt Sienna
-  * Burnt Umber
+  * Permanent orange
+  * Pyrrol scarlet
+  * Raw sienna
+  * Burnt sienna
+  * Burnt umber
   * Cerulean blue
-  * Cobalt Blue
-  * French Ultramarine
-  * Phthalo Blue (GS)
+  * Cobalt blue
+  * Ultramarine blue
+  * Phthalo blue (GS)
   * Neutral tint
 * 4 supplementary half-pans:
   * Chinese white
-  * Lemon Yellow
-  * Lavender
+  * Hansa yellow light
+  * Carmine
   * Lamp black
