@@ -5,8 +5,10 @@
 All colors from Daniel Smith, the color chart:
 <https://janeblundellart.blogspot.com/2017/04/daniel-smith-watercolour-full-range.html>
 
-* 10 half-pans
+* 12 half-pans
+  * Hansa yellow medium
   * Hansa yellow deep
+  * Permanent orange
   * Pyrrol scarlet
   * Raw sienna
   * Burnt sienna
