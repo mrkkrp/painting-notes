@@ -1,25 +1,24 @@
-# Binning monro palette
+# Roberson style paintbox
 
-<http://www.littlebrassbox.com/BM%20Page.html>
+<http://www.littlebrassbox.com/Rob%20Page.html>
 
 All colors from Daniel Smith, the color chart:
 <https://janeblundellart.blogspot.com/2017/04/daniel-smith-watercolour-full-range.html>
 
-* 12 full pans:
+* 16 full pans
+  * Chinese white
   * Hansa yellow medium
   * Hansa yellow deep
-  * Permanent orange
-  * Pyrrol scarlet
+  * Pyrrol red
+  * Yellow ochre
   * Raw sienna
+  * Quinacridone gold
   * Burnt sienna
+  * Raw umber
   * Burnt umber
+  * Neutral tint
+  * Lamp black
   * Cerulean blue
   * Cobalt blue
   * Ultramarine blue
   * Phthalo blue (GS)
-  * Neutral tint
-* 4 supplementary half-pans:
-  * Chinese white
-  * Hansa yellow light
-  * Carmine
-  * Lamp black
