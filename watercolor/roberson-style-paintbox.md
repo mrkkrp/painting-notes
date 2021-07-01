@@ -12,8 +12,8 @@ All colors from Daniel Smith, the color chart:
   * Pyrrol red
   * Yellow ochre
   * Raw sienna
-  * Quinacridone gold
   * Burnt sienna
+  * Indian red
   * Raw umber
   * Burnt umber
   * Neutral tint
