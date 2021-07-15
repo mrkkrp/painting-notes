@@ -7,9 +7,9 @@ All colors from Daniel Smith, the color chart:
 
 * 12 half-pans
   * Hansa yellow medium
+  * Hansa yellow deep
   * Yellow ochre
   * Raw sienna
-  * Quinacridone gold
   * Pyrrol red
   * Indian red
   * Burnt sienna
