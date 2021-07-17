@@ -8,9 +8,9 @@ All colors from Daniel Smith, the color chart:
 * 12 full pans
   * Hansa yellow medium
   * Hansa yellow deep
-  * Yellow ochre
+  * Quinacridone gold
   * Raw sienna
-  * Pyrrol red
+  * Pyrrol scarlet
   * Indian red
   * Burnt sienna
   * Burnt umber
