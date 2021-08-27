@@ -20,6 +20,6 @@ All colors from Daniel Smith, the color chart:
   * Phthalo blue (GS)
 * 4 extra wells
   * Chinese white
+  * Quinacridone lilac
   * Raw umber
   * Neutral tint
-  * Lamp black
