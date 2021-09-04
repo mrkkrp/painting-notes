@@ -19,7 +19,7 @@ All colors from Daniel Smith, the color chart:
   * Ultramarine blue
   * Phthalo blue (GS)
 * 4 extra wells
-  * Chinese white
-  * Quinacridone lilac
   * Raw umber
+  * Viridian
+  * Quinacridone lilac
   * Neutral tint
